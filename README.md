@@ -1,7 +1,5 @@
 # Adult Income Classification
 
-CSC 869 Mini Project
-
 Author: Anmol Tadikonda
 
 This project implements a Naive Bayes classifier from scratch on the
